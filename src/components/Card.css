@@ -1,0 +1,22 @@
+.Card {
+    width: 300px;
+    height: 225px;
+    /* position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+    box-shadow: 0 20px 40px rbga(0,0,0,0.25); */
+}
+
+/* .Card img {
+    position: absolute;
+    top: 0;
+    height: 110%;
+    z-index: -1;
+}
+
+.Card h3 {
+    color: white;
+    font-size: 30px;
+    margin: 20px 0 0 20px;
+    width: 190px;
+} */
