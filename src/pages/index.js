@@ -32,7 +32,7 @@ const IndexPage = () => (
       </svg>
       </div>
     </div>
-    <div className='Card'>
+    <div className='Cards'>
       <h2>11 courses, more coming</h2>
       <Card
         title="React for Designers"
